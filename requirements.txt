@@ -1,0 +1,6 @@
+PySimpleGUI
+yt-dlp
+librosa
+numpy
+soundfile
+mutagen
